@@ -1,7 +1,7 @@
 # Ross L. Shaw  
 **Applied Machine Learning | USC Project Management | Systems Builder**
 
-Hi, I'm Ross, a PM & Analytics leader transitioning into Applied Machine Learning.  
+Hi, I'm Ross, a PM & Analytics leader whose also into Applied Machine Learning.  
 I build practical AI systems end-to-end:
 
 - Chrome extensions (js/express/mongo + AI)  
@@ -12,7 +12,7 @@ I build practical AI systems end-to-end:
 ### Current Focus
 - Applied ML (USC)
 - Practical ML projects (Kaggle, DS competitions)
-- AI product engineering (Fly · Monte Carlo · Systems)
+- AI product engineering
 
 ### Skills
 Python · Pandas · NumPy · ML Modeling  
