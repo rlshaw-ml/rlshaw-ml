@@ -10,6 +10,37 @@ My work focuses on turning analytical ideas into **deployable tools** : simulati
 
 # Core Projects
 
+## ClearRun — Honesty Scoring for AI Responses
+Open TypeScript SDK + hosted API that scores whether an AI response's confidence is backed by its reasoning. **It does not fact-check.** High score = confidence matches justification, not that the claim is true.
+
+**Status**
+- `@clearrun/*` packages live on npm at **0.1.0**
+- Hosted API: `https://api.clearrun.net`
+- Open OSS: [Adepoco/ClearRun](https://github.com/Adepoco/ClearRun) · Release [v0.1.0](https://github.com/Adepoco/ClearRun/releases/tag/v0.1.0)
+
+**Focus**
+- Confidence–justification alignment scoring  
+- Signed, verifiable verdicts  
+- Embeddable SDK, adapters, and CLI  
+
+**Tech**
+TypeScript · Node · npm · Hosted scoring kernel
+
+---
+
+## BMIT — Structure-First Coding Framework for AI Agents
+Public method pack for agentic coding: **Blast / Mid / Inner** programs write at their own altitude, then **T1 structural → T2 bug/ops → T3 adversarial**. Structure first, function second, attack third.
+
+**Repo**
+https://github.com/rlshaw-ml/BMIT
+
+**Focus**
+- Programs at altitude (not plan-then-code)  
+- Structural correction before bug-chasing  
+- Adversarial attack as the last gate  
+
+---
+
 ## RangeSight — Probabilistic Trading Risk Engine
 Monte Carlo simulation system designed to evaluate survival probability and risk-of-ruin before capital is deployed.
 
@@ -74,7 +105,7 @@ Various research and experimentation projects exploring:
 # Engineering Stack
 
 ## Languages
-Python · JavaScript · SQL
+Python · JavaScript · TypeScript · SQL
 
 ## Data / ML
 Pandas · NumPy · Statistical modeling  
@@ -82,12 +113,14 @@ Feature engineering · Model evaluation
 
 ## Software Engineering
 Node.js · Express · MongoDB  
-Flutter · REST APIs · SaaS systems
+Flutter · REST APIs · SaaS systems  
+npm packages · Hosted APIs
 
 ## Product Systems
 Analytics architecture  
 Decision modeling  
-Workflow automation
+Workflow automation  
+Agentic coding frameworks
 
 ---
 
@@ -97,10 +130,17 @@ Workflow automation
 - AI product development
 - Statistical decision engines
 - ML experimentation and competitions
+- **ClearRun 0.1.0** — open SDK + hosted honesty-scoring API
+- **BMIT** — public structure-first agent coding framework
+- AI adoption and process-improvement consulting (Shaw Consulting / fractional)
+- Expanding Adepoco product surface (ClearRun open + closed core)
 
 ---
 
 # Professional Background
+
+Founder — Adepoco  
+Building ClearRun and related AI product systems.
 
 Analytics Manager — Reporting & Process Improvement  
 Regal Medical Group
@@ -118,6 +158,8 @@ Work focuses on:
 - Monte Carlo simulation applications
 - Applied machine learning systems
 - AI-assisted productivity tools
+- Confidence–justification alignment and verifiable AI verdicts
+- Structure-first loops for agentic coding (BMIT)
 
 ---
 
@@ -125,6 +167,15 @@ Work focuses on:
 
 LinkedIn  
 https://www.linkedin.com/in/rosslshaw/
+
+ClearRun (npm)  
+https://www.npmjs.com/package/@clearrun/sdk
+
+ClearRun (GitHub)  
+https://github.com/Adepoco/ClearRun
+
+BMIT  
+https://github.com/rlshaw-ml/BMIT
 
 Kaggle  
 https://www.kaggle.com/rosslshaw
